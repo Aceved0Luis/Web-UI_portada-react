@@ -1,6 +1,13 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.todo {
+  min-width: 120px;
+  min-height: 100vh;
+  background-image: url("/src/assets/img/martin.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
