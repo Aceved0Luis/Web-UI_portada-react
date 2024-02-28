@@ -11,6 +11,7 @@
   background-image: url("/src/assets/img/martin.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
   display: flex;
   position: relative;
 }
